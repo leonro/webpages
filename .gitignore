@@ -1,0 +1,8 @@
+*.pyc
+*.py.bak
+*.py.old
+*~
+build
+dist
+dist/*.egg
+
